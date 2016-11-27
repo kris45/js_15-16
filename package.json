@@ -1,14 +1,10 @@
 {
-  "name": "redux-ru-tutorial",
+  "name": "Google search",
   "version": "1.0.0",
-  "description": "Redux RU tutorial",
   "main": "index.html",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Maxim Patsianskiy",
+  "author": "Christina Salo",
   "license": "MIT",
-  "devDependencies": {
-    "express": "^4.13.4"
-  }
 }
