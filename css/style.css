@@ -1,0 +1,38 @@
+.wrapper {
+	margin: 20px;
+}
+
+.searchBtn {
+	cursor: pointer;
+}
+
+input {
+	width: 300px;
+	height: 20px;
+}
+
+img {
+	position: relative;
+    top: 15px;
+}
+
+ul {
+    display: flex;
+    padding-left: 10px;
+    list-style: none;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: flex-start;
+}
+
+li {
+	padding: 9px;
+}
+
+button.loadMoreBtn {
+	margin: 0 auto;
+    padding: 5px 20px;
+    cursor: pointer;
+	display: none;
+}
